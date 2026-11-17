@@ -1,65 +1,80 @@
-Restaurant Sales & Food Delivery Analysis
-End-to-End Data Analytics Project | Excel • SQL • Power BI 
+🍽️ Restaurant Sales & Food Delivery Analysis
 
-Project Overview
-This project focuses on analysing restaurant sales, customer orders and food delivery operations using Excel, Power Query, MySQL and Power BI.
-Worked with 1,500+ restaurant order records, performing data cleaning, SQL-based analysis and interactive dashboard development to understand sales trends and delivery performance.
+An End-to-End Data Analytics Project using Excel, Power Query, MySQL & Power BI
 
-Objectives
-Analyse monthly restaurant revenue and sales trends.
+📌 Project Overview
+
+This project analyses restaurant sales, customer orders and food delivery operations using a dataset containing 1,500+ order records.
+
+The project covers data cleaning, transformation, SQL analysis and interactive dashboard development to understand business performance.
+
+🎯 Project Objectives
+
+Analyse monthly revenue and sales trends.
+
+Identify restaurant and food-item performance.
+
 Understand customer ordering patterns.
-Evaluate restaurant and food-item performance.
-Analyse delivery partner performance and order cancellations.
-Build an interactive dashboard for business reporting.
 
-Tools & Technologies
-Tool                  Application
-Microsoft Excel     Data inspection and cleaning
-Power Query         Data transformation and standardization
-MySQL               SQL querying and business analysis
-Power BI            Interactive dashboard development
-DAX                 KPI calculations and measures
+Evaluate delivery partner performance.
 
-Project Workflow
-1. Data Cleaning & Transformation
-Processed 1,500+ order records.
-Removed duplicate records and handled missing values.
-Standardised inconsistent restaurant names, food items and payment methods.
-Corrected data formatting and data quality issues using Excel and Power Query.
+Monitor order cancellations and delivery status.
 
-2. SQL Analysis
-Analysed monthly revenue and order performance.
-Used JOINs to combine related tables.
-Applied CTEs, subqueries and aggregate functions.
-Examined delivery partner performance and cancellation rates.
+🛠️ Tools & Technologies
 
-3. Power BI Dashboard
-Developed an interactive dashboard.
-Created DAX measures for business KPIs.
-Used data modelling and visualisations to present sales and delivery insights.
+Microsoft Excel
 
-Key Performance Indicators
+Power Query
+
+MySQL
+
+Power BI
+
+DAX
+
+🔄 Project Workflow
+
+1. Data Cleaning – Excel & Power Query
+
+Handled duplicate records and missing values.
+
+Standardised restaurant names, food items and payment methods.
+
+Corrected formatting and data inconsistencies.
+
+2. SQL Analysis – MySQL
+
+Analysed monthly revenue and order trends.
+
+Used JOINs, CTEs and subqueries.
+
+Evaluated delivery partner performance and cancellation rates.
+
+3. Dashboard Development – Power BI
+
+Created an interactive dashboard.
+
+Developed DAX measures and KPIs.
+
+Visualised revenue, orders, average order value and cancellation rate.
+
+📊 Key Performance Indicators
+
 Total Revenue
+
 Total Orders
+
 Average Order Value (AOV)
+
 Cancellation Rate
 
-Project Outcomes
-Transformed 1,500+ raw order records into a structured analytical dataset.
-Performed sales and delivery analysis using MySQL.
-Developed an interactive Power BI dashboard.
-Created KPI measures to monitor business performance.
+📁 Repository Structure
 
-Repository Contents
-Project files and documentation will be organised into the following sections:
-dataset/ – Original and cleaned datasets.
-excel_power_query/ – Excel and Power Query work.
-sql/ – SQL queries and analysis.
-power_bi/ – Power BI dashboard and preview.
-documentation/ – Data dictionary and project workflow.
-screenshots/ – Project screenshots.
+Project files and screenshots will be added here as they are organised.
 
-Author
+👨‍💻 About Me
+
 Hari Krishna J
 BCA Data Science Graduate | Aspiring Data Analyst
-Technical Skills: SQL | Excel | Power BI | Python | Data Analytics
+
+Skills: SQL | Excel | Power BI | Python | Data Analytics
